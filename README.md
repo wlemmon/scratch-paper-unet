@@ -5,6 +5,8 @@ training data from https://www.kaggle.com/kmader/electron-microscopy-3d-segmenta
 
 sample result after 30 epochs
 
-![alt text](https://github.com/wlemmon/scratch-paper-unet/tree/master/output/train_0.png)
-![alt text](https://github.com/wlemmon/scratch-paper-unet/tree/master/output/out-i-0-t-0-softmax.png)
-![alt text](https://github.com/wlemmon/scratch-paper-unet/tree/master/output/out-i-0-t-0-softmaxargmax.png)
+![alt text](/output/training0.png?raw=true)
+
+![alt text](/output/out-i-30-t-0-softmax.png?raw=true)
+
+![alt text](/output/out-i-30-t-0-softmaxargmax.png?raw=true)

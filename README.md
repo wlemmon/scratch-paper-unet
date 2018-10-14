@@ -5,8 +5,8 @@ training data from https://www.kaggle.com/kmader/electron-microscopy-3d-segmenta
 
 sample result after 30 epochs
 
-![alt text](/output/training0.png?raw=true)
+![alt text](/output/training_0.png?raw=true)
 
-![alt text](/output/out-i-30-t-0-softmax.png?raw=true)
+![alt text](/output/out-i-0-t-30-softmax.png?raw=true)
 
-![alt text](/output/out-i-30-t-0-softmaxargmax.png?raw=true)
+![alt text](/output/out-i-0-t-30-softmaxargmax.png?raw=true)

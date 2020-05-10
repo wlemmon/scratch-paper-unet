@@ -1,5 +1,5 @@
-# scratch-paper-unet
-I implement a 2D unet from scratch. its messy but it works. pytorch.
+# unet-pytorch
+This is an example 2D unet implemented in pytorch.
 
 training data from https://www.kaggle.com/kmader/electron-microscopy-3d-segmentation
 
